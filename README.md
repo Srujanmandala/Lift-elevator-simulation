@@ -1,10 +1,10 @@
-# Lift-elevator-simulation
-🚀 Elevator Simulation (Python + Tkinter)
+# Lift-elevator-simulation using priority queue , stacks and linked lists
+**🚀 Elevator Simulation (Python + Tkin**ter)
 
 A fully functional Animated Elevator (Lift) Simulation built using Python and Tkinter.
 This project demonstrates how core data structures (Queue, Stack, Linked List) can be used to simulate a real-world elevator system with scheduling algorithms.
 
-📌 Project Overview
+**📌 Project Overview**
 
 This simulation models a lift inside a building with 8 floors (0–7).
 The elevator processes requests using the SCAN algorithm (also known as the Elevator Scheduling Algorithm).
@@ -22,11 +22,11 @@ Route logging using a linked list
 
 Automatic or manual processing of tasks
 
-🧠 Data Structures Used
+**🧠 Data Structures Used
 
 The main purpose of this project is to demonstrate how Data Structures can be applied in real-world simulations.
 
-⭐ 1. Up Queue (Ascending Priority Queue)
+**⭐ 1. Up Queue (Ascending Priority Queue)
 
 Type: Sorted List (acts as a Queue)
 Used For: Requests above the current floor.
@@ -147,9 +147,7 @@ self.root.after(25, move)
 /elevator-simulation
 │── animated_elevator.py
 │── README.md
-│── requirements.txt  (optional)
-│── screenshots/      (optional)
-└── assets/            (optional)
+
 
 ▶️ How to Run
 python animated_elevator.py
@@ -167,17 +165,7 @@ Tkinter is required (pre-installed with Python on Windows & Linux).
 ✔ Show Request History: Uses Stack
 ✔ Show Route Log: Uses Linked List
 
-🎓 Why This Project Is Excellent for BTech / MCA / Diploma
 
-Uses multiple data structures in a real-world scenario
-
-Shows algorithmic decision-making (SCAN)
-
-Includes GUI + animation, which impresses evaluators
-
-Perfect for OOP + DS + Python subjects
-
-Very viva-friendly
 
 ⭐ Future Enhancements
 
