@@ -194,3 +194,9 @@ Up/Down call buttons on each floor
 Saving logs to a file
 
 Sound effects
+
+<img width="1919" height="1012" alt="Screenshot 2025-12-07 143236" src="https://github.com/user-attachments/assets/1c617ed3-0442-4c89-b4dd-95c7626a1aac" />
+
+<img width="1919" height="1006" alt="Screenshot 2025-12-07 143301" src="https://github.com/user-attachments/assets/781a4f58-26c9-4675-a3a3-2d865881ae1e" />
+
+<img width="1919" height="999" alt="Screenshot 2025-12-07 143315" src="https://github.com/user-attachments/assets/bc90de60-00ae-49a3-8fba-f221dcc6cbec" />
